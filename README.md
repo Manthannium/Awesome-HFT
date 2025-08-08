@@ -1,2 +1,4 @@
-# HFT Preparation
-Resources for preparation of HFT firms
+# Awesome curated resources for HFT Preparation
+
+
+
